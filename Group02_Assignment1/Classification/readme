@@ -1,0 +1,3 @@
+Run Perceptron_LS.py to run for classification using Perceptron separable
+Run Perceptron_NLS.py to run for classification using Perceptron for non-linearly separable
+for neural net go to neural_net folder
